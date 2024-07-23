@@ -44,26 +44,3 @@ n1.onclick=()=>{
     }
 }
 
-// let m1=document.getElementById("m1")
-// console.log(m1);
-
-// m11.onclick=()=>{
-//     let n1=document.getElementById("n1")
-// }
-
-// let a22=document.querySelector("a21")
-// console.log(a22);
-
-// n.onclick=()=>{
-//     let n11=document.getElementById("body")
-//     console.log(n);
-//     res1=n11.classList.toggle("true")
-//     console.log(document.classLit.toggle);
-//     if(res1){
-//         n11.style.display="block"
-//     }
-// else{
-//         n11.style.display="none"
-//     }
-
-// }
