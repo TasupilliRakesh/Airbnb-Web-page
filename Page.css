@@ -1,0 +1,140 @@
+#a{
+    /* border: 2px solid red; */
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#a1{
+    display: flex;
+    /* border: 2px solid red; */
+    align-items: center;
+    width: 390px;
+    justify-content: space-evenly;
+}
+.a11:hover{
+    background-color: aqua;
+}
+#a2{
+    display: flex;
+    /* border: 2px solid green; */
+    align-items: center;
+    width: 350px;
+    justify-content: space-evenly;
+}
+
+#b{
+    border: 2px solid lightslategrey;
+    margin-top: 5px;
+    height: 95px;
+    width: 900px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 250px;
+}
+.b1{
+    border-radius: 20px;
+    height: 35px;
+    width: 165px;
+    padding: 20px;
+}
+.b1:hover{
+    background-color: lightslategray;
+}
+
+#c{
+    border: 2px solid lightgray;
+    height: 100px;
+    margin-top: 10px;
+    width: 1370px;
+    margin-left: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#c img{
+    padding-top: 8.5px;
+}
+
+#d{
+    /* border: 2px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.d1{
+    /* border: 2px solid blue; */
+    height: 425px;
+    width: 300px;
+    margin-top: 10px;
+}
+.d1 img{
+    border-radius: 15px;
+}
+/* .d1 img:hover{
+    transform: rotate(20deg); 
+    transform: rotateX(45deg);
+    transform: rotateY(45deg);
+    transform: translate(45px);
+    transform: scale(1.1);
+    transform: skew(90deg);
+} */
+
+#e{
+    border: 2px solid blue;
+    height: 50px;
+    width: 500px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+#f{
+    border: 2px solid red;
+    height: 70px;
+    width: 700px;
+}
+
+#g{
+    border: 2px solid greenyellow;
+    height: 300px;
+    width: 1360px;
+}
+
+#h{
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 32.5px;
+}
+
+#m{
+    position: absolute;
+    top: 100px;
+    left: 1030px;
+    background-color: white;
+    display: none;
+    /* bottom: 1000px; */
+    /* left: 600px; */
+}
+#n{
+    position: absolute;
+    top: 200px;
+    left: 370px;
+    background-color: white;
+    display: none;
+}
+#m2{
+    color: lightslategray;
+}
+#m11{
+    padding-left: 17px;
+    font-size: 18px;
+}
